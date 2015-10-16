@@ -2,7 +2,7 @@
 First repository  
 Hello Gitworld
 
-Lesson 1:
+Lesson 1:  
 First repository__  
 Hello Gitworld  
   
