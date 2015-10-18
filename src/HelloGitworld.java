@@ -1,4 +1,3 @@
-package firstRepository;
 
 public class HelloGitworld {
 
